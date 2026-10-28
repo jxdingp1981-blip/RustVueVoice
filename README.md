@@ -86,7 +86,7 @@ RustVueVoice.exe --overlay-demo   悬浮层动效演示
 - **电量一直显示「—」**：鼠标休眠时无应答属正常，按一下语音键或重新打开主窗口即可刷新；
 - **凭证文件**：与 Python/Rust 旧版共用（`%USERPROFILE%\.config\doubao-input\asr_params.json`），各版本可互换使用，无需重复登录；
 - **配置文件** `config.json`（exe 旁，可选）：可自定义 VID/PID、按键、输出方式（unicode / ctrl_v）、录音与日志目录等。
-
+- **更多问题** 请发邮件给 jxdingp1981@gmail.com
 ## 隐私说明
 
 录音仅在按下语音键期间采集，并上传豆包云端完成识别；cookie 解密与存储全部在本机完成，本程序不采集其它数据。
