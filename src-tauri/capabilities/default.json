@@ -1,0 +1,9 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "RustVueVoice 主窗口能力：允许核心事件（listen/emit）等默认权限",
+  "windows": ["main"],
+  "permissions": [
+    "core:default"
+  ]
+}
