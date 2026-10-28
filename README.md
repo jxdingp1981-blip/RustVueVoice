@@ -1,6 +1,6 @@
 # RustVueVoice 语音鼠标
 
-**Rulink / MR08 智能语音鼠标**-------- 适合-- **氛围编程**vibe coding和 **客服** 等使用场景
+**Rulink / MR08 智能语音鼠标**-------- 适合-- **氛围编程**vibe coding和 **客服** 等使用场景,开源请勿商用，请勿推广
 
 ![MR08 语音鼠标](https://storage.miirong.com/upload/article/image/1739865419750image.png)
 
